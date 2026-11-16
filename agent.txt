@@ -1,0 +1,10 @@
+LangChain Agent
+
+Tools:
+1. Calculator
+2. Web Search
+3. Document Retrieval
+
+Example:
+Question: What is 20 * 5?
+Output: 100
