@@ -1,0 +1,8 @@
+Buffer Memory:
+Stores recent conversation.
+
+Summary Memory:
+Stores summarized conversation history.
+
+Window Memory:
+Stores last N interactions.
