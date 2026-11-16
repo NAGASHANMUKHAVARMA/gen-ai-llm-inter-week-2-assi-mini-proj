@@ -1,0 +1,11 @@
+Vector Database: ChromaDB
+
+Indexed Documents:
+- doc1.pdf
+- doc2.pdf
+- doc3.pdf
+...
+- doc50.pdf
+
+Purpose:
+Store embeddings and perform semantic search.
